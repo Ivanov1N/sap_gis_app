@@ -4,11 +4,12 @@ This is a simple application for comparing two spreadsheet tables.
 
 ## Description
 
-It works exclusively with data tables exported from two different asset management platforms (SAP system and Geographic Information System). 
-You load the tables, generate a new field (combination of two columns) on which the comparison will be made and finally check if there are any differences between the tables (after preselected comparing method). 
-If there are any differences, new table is generated and saved. For the design layout I used Tkinter Bootstrap.
+It is designed to work specifically with data tables exported from two different asset management platforms (SAP system and the Geographic Information System).
+The application allows you to load these tables, generate a new field by combining two columns, and perform a comparison based on a preselected method. Finally, it checks for any differences between the tables.
+If any differences are found, a new table is generated and saved. I used Tkinter Bootstrap for the design layout.
 
 ## Getting Started
+
 Sample Excel files included for testing
 
 ## Dependencies
