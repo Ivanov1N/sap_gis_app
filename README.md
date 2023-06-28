@@ -1,6 +1,6 @@
 # Find Missing Assets (SAP and GIS)
 
-This is a simple application for comparing two spreadsheet tables
+This is a simple application for comparing two spreadsheet tables.
 
 ## Description
 
