@@ -11,11 +11,11 @@ If there are any differences, new table is generated and saved. For the design l
 ## Getting Started
 Sample Excel files included for testing
 
-### Dependencies
+## Dependencies
 
 * Python 3, tkinter, pandas, ttkbootstrap
 
-### Executing program
+## Executing program
 
 1. Load tables
 2. Generate full SAP code
